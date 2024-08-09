@@ -4,8 +4,6 @@ Este repositório contém todos os arquivos e documentação relacionados ao meu
 
 - **Projeto Final Online:** <a href="https://app.powerbi.com/view?r=eyJrIjoiZTY0ZjlhMGQtMzQxNy00MmFjLWE3MmQtYmQ4OGRkNjE2MjVmIiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=5a6908baa7877b565312" target="_blank">Clique aqui!</a>
 
-<iframe title="Dash E-commerce Vendas Final V3" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZTY0ZjlhMGQtMzQxNy00MmFjLWE3MmQtYmQ4OGRkNjE2MjVmIiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=5a6908baa7877b565312" frameborder="0" allowFullScreen="true"></iframe>
-
 
 ![Dash Online](./assets/img/dash-web-final.png)
 
@@ -28,6 +26,8 @@ Este projeto tem como objetivo demonstrar a aplicação prática de habilidades 
 ## Dados Brutos
 Os dados brutos utilizados neste projeto foram recebidos em formato CSV e estão disponíveis neste repositório:
 - [Datasets](./assets/dados-brutos/)
+
+![Dados Brutos](./assets/img/dados%20brutos.png)
 
 ## Levantamento de Requisitos
 
@@ -81,6 +81,8 @@ Este levantamento de requisitos visa criar um dashboard interativo que permita a
 ## Processamento e Tratamento dos Dados
 Os dados brutos foram processados e tratados na Power Query, garantindo a limpeza e a preparação dos dados para análise. A planilha com os dados tratados pode ser encontrada aqui:
 - [Dados Tratados Final](./assets/dados-tratados/Dados%20tratados%20final.xlsx)
+
+![Dados Tratados](./assets/img/dados%20tratados.png)
 
 ## Criação do Dashboard - Versão 1
 A primeira versão do dashboard foi criada seguindo as orientações do módulo do curso. Esta versão inicial está disponível em formato PDF:

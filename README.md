@@ -2,7 +2,10 @@
 
 Este repositório contém todos os arquivos e documentação relacionados ao meu projeto de análise de vendas em e-commerce desenvolvido durante o curso na Escola DNC. Este projeto utilizou o Power BI para transformar dados brutos em insights valiosos.
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZTY0ZjlhMGQtMzQxNy00MmFjLWE3MmQtYmQ4OGRkNjE2MjVmIiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=5a6908baa7877b565312" target="_blank">Projeto Final Online: Clique aqui!</a>
+- **Projeto Final Online:** <a href="https://app.powerbi.com/view?r=eyJrIjoiZTY0ZjlhMGQtMzQxNy00MmFjLWE3MmQtYmQ4OGRkNjE2MjVmIiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=5a6908baa7877b565312" target="_blank">Clique aqui!</a>
+
+<iframe title="Dash E-commerce Vendas Final V3" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZTY0ZjlhMGQtMzQxNy00MmFjLWE3MmQtYmQ4OGRkNjE2MjVmIiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=5a6908baa7877b565312" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ![Dash Online](./assets/img/dash-web-final.png)
 
